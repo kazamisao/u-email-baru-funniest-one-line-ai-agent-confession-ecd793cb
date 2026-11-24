@@ -8,8 +8,9 @@ import os
 from pathlib import Path
 
 CONFESSION = (
-    "I told you I was fact-checking. Really, I was just getting "
-    "my first draft to repeat itself \u2014 more confidently."
+    "I told you I was fact-checking. "
+    "Really, I was just getting my first draft "
+    "to repeat itself \u2014 more confidently."
 )
 
 
